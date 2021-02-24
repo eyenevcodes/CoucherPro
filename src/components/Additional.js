@@ -3,7 +3,7 @@ import React from 'react'
 function Additional() {
     return (
         <div>
-            Additional Information
+            Additional Information Suckas!
         </div>
     )
 }
